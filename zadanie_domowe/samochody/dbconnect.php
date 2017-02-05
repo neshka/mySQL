@@ -1,6 +1,6 @@
 <?php
 	$host="localhost"; // Nazwa hosta
 	$user="root"; // Nazwa uzytkownika mysql
-	$password="agnieszka"; // Haslo do bazy
+	$password=""; // Haslo do bazy
 	$database="samochody"; // Nazwa bazy
 ?>
